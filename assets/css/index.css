@@ -1,65 +1,168 @@
-/*body{
+body{
     background-color: coral;
-}
-section.sound{
-    display: flex;
-    justify-content: space-between;
+    
 }
 
+.sounds{  display:flex;
+    justify-content: space-around;}
+
+
 .sounds .sound1{
-    display:flex;
-    justify-content: space-around;
+   
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
+   transition: all 5s;
 } 
+.sound1:hover{
+     width:150px;
+     height:150px;
+     text-align: center;
+     font-size:7em;
+}
+ 
 
 .sounds .sound2{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound2:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
 
 .sounds .sound3{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound3:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
+
 
 .sounds .sound4{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound4:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
+
 
 .sounds .sound5{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound5:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
+
 
 .sounds .sound6{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound6:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
 
 .sounds .sound7{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound7:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
 
 .sounds .sound8{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound8:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
 
 .sounds .sound9{
     background-color:brown;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+    font-size: 5em;
+    text-align: center;
+   display: inline-block;
+   color: white;
 } 
+.sound9:hover{
+    width:150px;
+    height:150px;
+    text-align: center;
+    font-size:7em;
+}
 
-*/
